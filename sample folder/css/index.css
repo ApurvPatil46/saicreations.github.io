@@ -1,0 +1,11 @@
+.height-400{
+    height: 400px;
+}
+.unique-color-dark .background{
+    color: #F5C469;
+}
+@media (min-width: 768px) { 
+    .custom-card{
+        background-color: red;
+    }
+}
